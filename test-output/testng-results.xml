@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T00:49:58 EST" name="Suite" finished-at="2024-02-01T00:50:35 EST" duration-ms="37365">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T00:49:58 EST" name="E2E tests for UiKitCatalog on IOS" finished-at="2024-02-01T00:50:35 EST" duration-ms="37365">
+      <class name="com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:49:58 EST" name="setup" finished-at="2024-02-01T00:50:04 EST" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestAlertViews()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:50:04 EST" name="TestAlertViews" finished-at="2024-02-01T00:50:10 EST" duration-ms="5811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAlertViews -->
+        <test-method signature="TestIOSLongPress()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:50:10 EST" name="TestIOSLongPress" finished-at="2024-02-01T00:50:19 EST" duration-ms="9251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestIOSLongPress -->
+        <test-method signature="TestIOSPicker()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:50:19 EST" name="TestIOSPicker" finished-at="2024-02-01T00:50:22 EST" duration-ms="3049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestIOSPicker -->
+        <test-method signature="TestIOSScroll()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:50:22 EST" name="TestIOSScroll" finished-at="2024-02-01T00:50:28 EST" duration-ms="6107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestIOSScroll -->
+        <test-method is-config="true" signature="teardowm()[pri:0, instance:com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp@2a265ea9]" started-at="2024-02-01T00:50:28 EST" name="teardowm" finished-at="2024-02-01T00:50:35 EST" duration-ms="6952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardowm -->
+      </class> <!-- com.UiKitCatalogTestsOnIOS.Tests.AppiumTestForUiKitCatalogApp -->
+    </test> <!-- E2E tests for UiKitCatalog on IOS -->
+  </suite> <!-- Suite -->
+</testng-results>
